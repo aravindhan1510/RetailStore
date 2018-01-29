@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  RetailStore
+
+  Created by Aravindhan on 15/01/18..
+  Copyright © 2018 Aravind. All rights reserved.
+*/
+// CategoriesViewController.swift
+"Retail Store" = "Retail Store";
+
+//  ProductDetailsViewController.swift
+"Product added to cart successfully" = "Product added to cart successfully";
+"Add to cart" = "Add to cart";
+
+//  CartViewController.swift
+"Cart"= "Cart";
+"Total Price" = "Total Price:" ;

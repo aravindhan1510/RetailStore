@@ -1,6 +1,6 @@
 # RetailStore
 
-RetailStore is an appliaction created to demonstrate my coding skills. 
+RetailStore is an appliaction created to demonstrate usage of MVVM design pattern. 
 
 Please refer Retail_Store.pdf for the requirements covered in this application
 
